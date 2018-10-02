@@ -1,1 +1,8 @@
-#boris_bikes
+#boris_bikes#
+
+
+## How to use ##
+
+''' shell
+ruby directory.rb
+'''    
