@@ -1,5 +1,5 @@
 class DockingStation
-  def release_bikegit
+  def release_bike
     Bike.new
   end
 
